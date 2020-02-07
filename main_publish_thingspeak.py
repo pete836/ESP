@@ -5,8 +5,8 @@ import umqtt.robust
 
 
 MQTT_CLIENT_ID = "ESP32_Hacienda"
-CHANNEL_ID = "982300"
-WRITE_API_KEY = "8ODYX933Y1186LY3"
+CHANNEL_ID = "ID"
+WRITE_API_KEY = "KEY"
 MQTT_SERVER = "mqtt.thingspeak.com"
 MQTT_TOPIC = "channels/" + CHANNEL_ID + "/publish/" + WRITE_API_KEY
 
