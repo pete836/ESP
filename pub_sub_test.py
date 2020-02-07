@@ -5,7 +5,7 @@ import umqtt.robust
 
 
 MQTT_CLIENT_ID = "ESP32_Hacienda"
-MQTT_SERVER = "octopod.hcsvnt.zone"
+MQTT_SERVER = "MYHOMESERVER"
 MQTT_PORT = 26883
 MQTT_TOPIC_TEMP = "pete/test/temperature"
 MQTT_TOPIC_HUM = "pete/test/humidity"
